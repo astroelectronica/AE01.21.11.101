@@ -1,0 +1,22 @@
+Designator;Package;Quantity;Designation;Supplier and ref
+C1;C_0805_2012Metric;1;100nF;
+CONN1;PinHeader_1x02_P2.54mm_Horizontal;1;OUT;
+FID1,FID2,FID3;Fiducial_0.5mm_Mask1mm;3;Fiducial;
+P1;Socket_Strip_Arduino_1x08;1;Power;
+P2;Socket_Strip_Arduino_1x06;1;Analog;
+P3;Socket_Strip_Arduino_1x10;1;Digital;
+P4;Socket_Strip_Arduino_1x08;1;Digital;
+P5,P6,P7,P8;Arduino_1pin;4;CONN_01X01;
+R1,R2,R3,R4;R_0805_2012Metric;4;10k;
+REF**;KiCad-Logo2_5mm_SilkScreen;1;KiCad-Logo2_5mm_SilkScreen;
+REF**;WEEE-Logo_4.2x6mm_SilkScreen;1;WEEE-Logo_4.2x6mm_SilkScreen;
+REF**;OSHW-Logo_5.7x6mm_SilkScreen;1;OSHW-Logo_5.7x6mm_SilkScreen;
+REF**;ESD-Logo_6.6x6mm_SilkScreen;1;ESD-Logo_6.6x6mm_SilkScreen;
+TP1;TestPoint_Pad_D1.0mm;1;SCL;
+TP2;TestPoint_Pad_D1.0mm;1;SDA;
+TP3;TestPoint_Keystone_5010-5014_Multipurpose;1;GND;
+TP4;TestPoint_Pad_D1.0mm;1;P0A;
+TP5;TestPoint_Pad_D1.0mm;1;P0B;
+TP6;TestPoint_Pad_D1.0mm;1;P0W;
+TVS1,TVS2;D_SOD-323;2;DESD5V0S1BA-7;
+U1;MSOP-8_3x3mm_P0.65mm;1;MCP4531T-103E_MS;

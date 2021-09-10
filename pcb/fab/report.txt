@@ -1,0 +1,3 @@
+Info: Place file: "/home/astroelectronica/AE/AE01.21.11.101/pcb/fab/AE01.21.11.101-all-pos.csv".
+Info: Component count: 11.
+Component Placement File generation OK.
